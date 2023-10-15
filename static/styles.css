@@ -1,0 +1,105 @@
+.name{
+    font-family: georgia;
+    direction: ltr;
+    text-align: center;
+}
+.name2{
+    font-family: verdana;
+    direction: ltr;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    font-size: 18px;
+}
+.rstyle{
+    margin:0 5px 0 30px;
+    font-family: verdana;
+}
+.header {
+    background-color: lightgreen;
+    color: black;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+
+}
+.header2 {
+    background-color: white;
+    color: black;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+    font-family: verdana;
+}
+.formH {
+    text-decoration: underline;
+    font-family: verdana;
+    text-align: center;
+}
+.plan {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: navy; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font: Times;
+    width: 300px;
+    height: 200px;
+}
+.plan1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: green; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font: Times;
+    width: 300px;
+    height: 200px;
+}
+
+.home {
+    font-family: verdana;
+    background-color: white;
+    color: black;
+    margin-bottom: 2rem;
+    direction: ltr;
+}
+
+.records{
+    background-color:black;
+    color: black;
+}
+p{
+    margin: 2rem;
+}
+.about{
+    font-family: helvetica;
+    background-color: white;
+    color: black;
+    margin-bottom: 2rem;
+}
+.ab{
+    text-align: center;
+    font-size: 16px;
+}
+.intenseUp{
+    text-decoration: italic;
+    text-decoration-color: blue;
+}
+.intenseDown{
+    text-decoration: italic;
+    text-decoration-color: orange;
+}
+.cWrite{
+    text-align: right;
+
+}
